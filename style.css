@@ -1,0 +1,65 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+    font-weight: lighter;
+  font-size: 14px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Helvetica;
+  color: salmon;
+  font-size: 30px;
+}
+h2 {
+  font-family: arial;
+  color: black;
+  font-size: 22px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image:url(http://i3.dailyrecord.co.uk/incoming/article3412169.ece/alternates/s2197/Usain-Bolt.jpg);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  text-align: center;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+	text-align: center;
+  padding: 50px;
+  font-weight: lighter
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 26px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
